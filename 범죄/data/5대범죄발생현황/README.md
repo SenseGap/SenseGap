@@ -30,9 +30,9 @@
 - 시각화 파일: `crime_grid_10m_map.html` (Folium 기반 히트맵)
 
 ## 🏛 출처
-- 데이터 출처: https://data.seoul.go.kr/dataList/316/S/2/datasetView.do
-- Shapefile 출처: https://www.vworld.kr/dtmk/dtmk_ntads_s002.do?datIde=30604&dsId=30604&pageIndex=1&pageSize=10&pageUnit=10&paginationInfo=egovframework.rte.ptl.mvc.tags.ui.pagination.PaginationInfo%40a0667c6&datPageIndex=2&datPageSize=10
-- 데이터 기준일: 2023년 12월 31일
+- 데이터 출처: [서울 열린데이터광장 - 5대범죄 발생현황](https://data.seoul.go.kr/dataList/316/S/2/datasetView.do)
+- 데이터 기준일: 2023년 12월 31일  
+- Shapefile 출처: [국토정보플랫폼 - 시도/시군구 경계](https://www.vworld.kr/dtmk/dtmk_ntads_s002.do?datIde=30604&dsId=30604&pageIndex=1&pageSize=10&pageUnit=10&paginationInfo=egovframework.rte.ptl.mvc.tags.ui.pagination.PaginationInfo%40a0667c6&datPageIndex=2&datPageSize=10)
 
 ## 📌 참고 사항
 - 자치구명 불일치로 인한 누락이 일부 존재할 수 있음
